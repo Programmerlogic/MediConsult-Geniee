@@ -59,3 +59,9 @@ Sure, here's a brief description of each technology along with an emoji:
 
 5. Flask 🌐:<br />
    - Flask is a lightweight web framework for Python that allows developers to build web applications quickly and efficiently. It provides tools and libraries for routing requests, handling HTTP responses, and creating RESTful APIs, making it popular for building web-based NLP applications and services.<br />
+
+## Installation steps
+Step 1:Install python 
+Step 2.-Download the lamma model from :- https://www.kaggle.com/datasets/rodrigostallsikora/llama-2-7b-chat-ggmlv3-q8-0-bin
+       -Keep this model in the downloaded folder.
+Step 3.Run requirements.txt file
