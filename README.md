@@ -97,3 +97,8 @@ Langchain Modules:
 - RAM 8GB 🐏<br />
 - Intel i5 Processor ⚙️<br />
 
+## Output
+![Screenshot (14)](https://github.com/Programmerlogic/MediConsult-Geniee/assets/90715479/798a1d05-abcc-4cb1-8126-268f0e2266ad)
+
+## LINKS
+PPT & Videos: https://drive.google.com/drive/folders/1OLj6ngkQBMQ_9F7syuVlbFExTKuqEPG6?usp=drive_link
