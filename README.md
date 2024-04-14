@@ -92,8 +92,8 @@ Langchain Modules:
 - `vectorstores`: FAISS 🔍<br />
 
 ### Dependencies
--Windows 10 💻
--Python 🐍
--RAM 8GB 🐏
--Intel i5 Processor ⚙️
+-Windows 10 💻<br />
+-Python 🐍<br />
+-RAM 8GB 🐏<br />
+-Intel i5 Processor ⚙️<br />
 
