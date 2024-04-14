@@ -70,3 +70,30 @@ Step 4:Download the vectorestoresdb i.e(The Faiss Vector Database) and keep the 
 It arrangement somehow looks like this:-<br />
 ![Screenshot (13)](https://github.com/Programmerlogic/MediConsult-Geniee/assets/90715479/5a60d595-6a88-4b21-ae42-99a204f21822)</br>
 Step 5:Then execute python app.py in cmd<br />
+
+## Libraries & Dependencies
+### Libraries
+1. Flask 🌐:<br />
+   - Flask is a micro web framework for Python used for building web applications.<br />
+2. PromptTemplate 📝:<br />
+   - PromptTemplate is a part of Langchain used for creating custom prompt templates for natural language processing tasks.<br />
+3. Hugging Face Embeddings 🤗:<br />
+   - Hugging Face Embeddings are used for generating word embeddings and language representations using models provided by Hugging Face.<br />
+4. FAISS 📊:<br />
+   - FAISS is a library used for efficient similarity search and clustering of dense vectors, often used in natural language processing tasks.<br />
+   - `sentence-transformers` (Hugging Face model) 🤖<br />
+5. SpeechRecognition 🗣️:<br />
+   - SpeechRecognition is a library used for speech recognition in Python, allowing the chatbot to understand voice input from users.<br />
+6. Langchain (Custom Library for NLP Tasks) 💬<br />
+Langchain Modules:
+- `text_splitter`: RecursiveCharacterTextSplitter 📝<br />
+- `document_loaders`: PyPDFLoader, DirectoryLoader 📄<br />
+- `embeddings`: HuggingFaceEmbeddings 🤗<br />
+- `vectorstores`: FAISS 🔍<br />
+
+### Dependencies
+-Windows 10 💻
+-Python 🐍
+-RAM 8GB 🐏
+-Intel i5 Processor ⚙️
+
