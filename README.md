@@ -98,7 +98,7 @@ Langchain Modules:
 - Intel i5 Processor ⚙️<br />
 
 ## Output
-![Screenshot (14)](https://github.com/Programmerlogic/MediConsult-Geniee/assets/90715479/798a1d05-abcc-4cb1-8126-268f0e2266ad)
+![Screenshot (15)](https://github.com/Programmerlogic/MediConsult-Geniee/assets/90715479/7da4e31f-9369-4c41-87a6-7ca2e3f976f4)
 
 ## LINKS
 PPT & Videos: https://drive.google.com/drive/folders/1OLj6ngkQBMQ_9F7syuVlbFExTKuqEPG6?usp=drive_link
