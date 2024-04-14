@@ -10,8 +10,6 @@ Functionality:
 💊 Medication Information: Offers details about medications, including usage instructions, side effects, and precautions.<br />
 🏥 Health Recommendations: Gives personalized recommendations for maintaining or improving health based on user-provided information such as age, gender, and medical history.<br />
 📚 Health Education: Educates users about various medical conditions, treatments, and preventive measures.<br />
-🗓️ Appointment Scheduler: Allows users to schedule medical appointments with healthcare providers.<br />
-📑 Medical Records Management: Optionally, provides a feature to store and manage personal medical records securely.<br />
 
 User Interface:<br />
 💬 Chat Interface: Utilizes a chat-based interface for natural interaction with users, simulating a conversation with a healthcare professional.<br />
@@ -44,7 +42,7 @@ Advanced Diagnosis and Treatment Suggestions:<br />
 Expansion into Telemedicine Services:<br />
 📱 Telemedicine Integration: As telemedicine continues to grow in popularity, the chatbot could expand its capabilities to offer virtual consultations with healthcare professionals. Users could schedule appointments, discuss their symptoms, receive preliminary assessments, and even obtain prescriptions or referrals, all through the chatbot interface. Integrating with telemedicine platforms could streamline the process of accessing healthcare services and provide convenient support to users, especially in regions with limited access to traditional healthcare facilities.<br />
 
-##Tech Stack<br />
+## Tech Stack 
 Sure, here's a brief description of each technology along with an emoji:
 
 1. Lamma Model 🧠:<br />
