@@ -61,15 +61,15 @@ Sure, here's a brief description of each technology along with an emoji:
    - Flask is a lightweight web framework for Python that allows developers to build web applications quickly and efficiently. It provides tools and libraries for routing requests, handling HTTP responses, and creating RESTful APIs, making it popular for building web-based NLP applications and services.<br />
 
 ## Installation steps
-Step 1:Install python<br /> 
-Step 2:-Download the lamma model from :- https://www.kaggle.com/datasets/rodrigostallsikora/llama-2-7b-chat-ggmlv3-q8-0-bin<br />
-       -Keep this model in the downloaded folder.<br />
-Step 3:Run requirements.txt file<br />
-Step 4:Download the vectorestoresdb i.e(The Faiss Vector Database) and keep the vectorstores folder in this folder itself<br />
-      -https://drive.google.com/drive/folders/1kWt3GVqUvkxaTK4OthGF4ON9XfRRlsot<br />
+- Step 1: Install python<br /> 
+- Step 2: Download the lamma model from :- https://www.kaggle.com/datasets/rodrigostallsikora/llama-2-7b-chat-ggmlv3-q8-0-bin<br />
+          -Keep this model in the downloaded folder.<br />
+- Step 3: Run requirements.txt file<br />
+- Step 4: Download the vectorestoresdb i.e(The Faiss Vector Database) and keep the vectorstores folder in this folder itself<br />
+          -https://drive.google.com/drive/folders/1kWt3GVqUvkxaTK4OthGF4ON9XfRRlsot<br />
 It arrangement somehow looks like this:-<br />
 ![Screenshot (13)](https://github.com/Programmerlogic/MediConsult-Geniee/assets/90715479/5a60d595-6a88-4b21-ae42-99a204f21822)</br>
-Step 5:Then execute python app.py in cmd<br />
+- Step 5: Then execute python app.py in cmd<br />
 
 ## Libraries & Dependencies
 ### Libraries
@@ -92,8 +92,8 @@ Langchain Modules:
 - `vectorstores`: FAISS 🔍<br />
 
 ### Dependencies
--Windows 10 💻<br />
--Python 🐍<br />
--RAM 8GB 🐏<br />
--Intel i5 Processor ⚙️<br />
+- Windows 10 💻<br />
+- Python 🐍<br />
+- RAM 8GB 🐏<br />
+- Intel i5 Processor ⚙️<br />
 
