@@ -43,3 +43,21 @@ Advanced Diagnosis and Treatment Suggestions:<br />
 
 Expansion into Telemedicine Services:<br />
 📱 Telemedicine Integration: As telemedicine continues to grow in popularity, the chatbot could expand its capabilities to offer virtual consultations with healthcare professionals. Users could schedule appointments, discuss their symptoms, receive preliminary assessments, and even obtain prescriptions or referrals, all through the chatbot interface. Integrating with telemedicine platforms could streamline the process of accessing healthcare services and provide convenient support to users, especially in regions with limited access to traditional healthcare facilities.<br />
+
+##Tech Stack<br />
+Sure, here's a brief description of each technology along with an emoji:
+
+1. Lamma Model 🧠:<br />
+   - The Lamma Model is a natural language processing (NLP) model designed for various text-based tasks, including text generation, classification, and sentiment analysis. It utilizes advanced algorithms to understand and process human language efficiently.<br />
+
+2. LLM (Large Language Model) 🤖:<br />
+   - LLM, or Large Language Model, refers to a category of NLP models, like OpenAI's GPT series, that are trained on vast amounts of text data to understand and generate human-like text. These models excel at tasks such as text completion, question answering, and language translation.<br />
+
+3. Langchain 🔗:<br />
+   - Langchain is a technology that enables the secure and decentralized storage and processing of language data. It utilizes blockchain technology to ensure data integrity, immutability, and transparency in linguistic applications.<br />
+
+4. Hugging Face Embeddings 🤗:<br />
+   - Hugging Face Embeddings are representations of words or phrases in a high-dimensional space generated using models developed by Hugging Face, a leading NLP research organization. These embeddings capture semantic relationships between words and are used in various NLP tasks such as similarity analysis and language understanding.<br />
+
+5. Flask 🌐:<br />
+   - Flask is a lightweight web framework for Python that allows developers to build web applications quickly and efficiently. It provides tools and libraries for routing requests, handling HTTP responses, and creating RESTful APIs, making it popular for building web-based NLP applications and services.<br />
