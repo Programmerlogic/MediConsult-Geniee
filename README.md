@@ -67,7 +67,7 @@ Sure, here's a brief description of each technology along with an emoji:
 - Step 3: Run requirements.txt file<br />
 - Step 4: Download the vectorestoresdb i.e(The Faiss Vector Database) and keep the vectorstores folder in this folder itself<br />
           -https://drive.google.com/drive/folders/1kWt3GVqUvkxaTK4OthGF4ON9XfRRlsot<br />
-It arrangement somehow looks like this:-<br />
+The arrangement somehow looks like this:-<br />
 ![Screenshot (13)](https://github.com/Programmerlogic/MediConsult-Geniee/assets/90715479/5a60d595-6a88-4b21-ae42-99a204f21822)</br>
 - Step 5: Then execute python app.py in cmd<br />
 
